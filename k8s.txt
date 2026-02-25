@@ -1,1 +1,1 @@
-Kubernetes is a container orchestration platform used to manage containers at scale. It is a widely used container orchestrator that supports autoscale, and autohealing
+Kubernetes is a container platform used to manage containers at scale. It is a widely used container that supports autoscale, and autohealing.
